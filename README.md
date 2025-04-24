@@ -124,6 +124,7 @@ Blog post: https://cweiske.de/tagebuch/frontier-firmware-dl.htm
 - `FS2026-0500-0783`: Teufel Radio 3sixty [2020?]
 - `FS2026-0500-0789`: Sonoro Stream S0-410 [2020]
 - `FS2026-0500-0795`: Sonoro Prestige
+- `FS2026-0500-0797`: Auna iTuner 320BT
 - `FS2026-0500-0802`: Technisat DigitRadio 631
 - `FS2026-0500-0805`: Medion P85289 (MD 88289)
 - `FS2026-0500-0841`: Kathrein DAB+ 10 tower
